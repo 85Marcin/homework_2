@@ -13,7 +13,7 @@ print(even_integers)
 
 
 # 2. Print the difference between the largest and smallest value:
-
+print(max(numbers) - min(numbers))
 
 
 # 3. Print True if the list contains a 2 next to a 2 somewhere.
